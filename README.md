@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-Active-purple" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📝 Description
 
@@ -20,7 +20,7 @@ It includes notes, practice code, and mini experiments built around real data ta
 In short:  
 **Just me learning data by messing with data.**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🐼 What I’m Learning
 
@@ -32,7 +32,7 @@ In short:
 - Broadcasting & indexing  
 - Tiny data experiments for fun  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🚀 Purpose
 
@@ -46,14 +46,14 @@ This repo helps me:
 - Try ideas quickly  
 - Track my progress in one place  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## ⭐ Support
 
 If this repo matches your vibe, drop a **⭐ star** —  
 it genuinely keeps me motivated ✨
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- BOTTOM BANNER -->
 <div align="center">
